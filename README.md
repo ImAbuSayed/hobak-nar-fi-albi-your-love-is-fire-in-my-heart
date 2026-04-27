@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نار الحب في قلبي تقيد
+> وروحي في ليلي تناديك
+> يا نور عيني اللي بعيد
+> في سكون الليل أناجيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
