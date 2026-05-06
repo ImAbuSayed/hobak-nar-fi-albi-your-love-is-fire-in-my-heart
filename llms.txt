@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/hobak-nar-fi-albi-your-love-is-fire-in-my-heart/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Request Licensing for Hobak Nar Fi Albi – Your Love Is Fire in My Heart](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
