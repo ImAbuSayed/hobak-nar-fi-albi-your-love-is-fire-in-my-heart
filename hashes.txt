@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hobak Nar Fi Albi – Your Love Is Fire in My Heart
+
+This log tracks the cryptographic history and versioning for the song **Hobak Nar Fi Albi – Your Love Is Fire in My Heart** (hobak-nar-fi-albi-your-love-is-fire-in-my-heart).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:19:38.024474 | `v1` | `dae36b6f3cb7d8af02b491cdb2b15c2eb78fc2cfade23d5bb2320bfe25d5b34b` | `1d497cd563a78d66cf7d824a7af2b84c2411d258433874f02e6de8dcceb24af3` | `2026-05-09_hobak-nar-fi-albi-your-love-is-fire-in-my-heart-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
